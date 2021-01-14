@@ -1,3 +1,7 @@
+##############################
+# Dice Calculator ~ v1 ~ SAB #
+##############################
+
 import random as r
 from tkinter import *
 
