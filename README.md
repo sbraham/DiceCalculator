@@ -6,4 +6,4 @@ May develop futher in the futour:
 - modifier
 - dice presets
 
-Was also done as a begging for me to use Tkinter - this will be inplomented in later projects
+Was also done as a begging for me to use Tkinter (Python GUI) - this will be inplomented in later projects
